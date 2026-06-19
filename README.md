@@ -2,20 +2,6 @@
 
 A full-stack user analytics application that tracks user interactions on a webpage and displays them in a dashboard. Built as part of the CausalFunnel Full Stack Engineer hiring assignment.
 
-## Screenshots
-
-### Demo Page (with tracker)
-![Demo Page](./screenshots/demo-page.png)
-
-### Sessions Dashboard
-![Dashboard](./screenshots/dashboard.png)
-
-### User Journey View
-![Session Journey](./screenshots/session-journey.png)
-
-### Heatmap View
-![Heatmap](./screenshots/heatmap.png)
-
 ## Features
 
 - **Event Tracking** — JavaScript script tracks page_view and click events with session IDs
