@@ -2,6 +2,11 @@
 
 A full-stack user analytics application that tracks user interactions on a webpage and displays them in a dashboard. Built as part of the CausalFunnel Full Stack Engineer hiring assignment.
 
+## 🚀 Live Demo
+
+- **Dashboard:** https://analytics-tracker-frontend.vercel.app
+- **Backend API:** https://analytics-tracker-backend.onrender.com
+
 ## Screenshots
 
 ### Demo Page (with tracker)
