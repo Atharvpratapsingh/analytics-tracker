@@ -4,7 +4,7 @@
 (function() {
 
     // Configuration
-    const API_URL = 'http://localhost:5000/api/events';//Backend ka address (where event send)
+    const API_URL = 'https://analytics-tracker-backend.onrender.com/api/events';//Backend ka address (where event send)
     const SESSION_KEY = 'analytics_session_id';
 
     // 1. Generate unique session ID
