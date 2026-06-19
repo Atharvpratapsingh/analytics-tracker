@@ -13,7 +13,7 @@ A full-stack user analytics application that tracks user interactions on a webpa
 ![Demo Page](screenshots/dashboard.png.png)
 
 ### Sessions Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](screenshots/session-journey.png.png)
 
 ### User Journey View
 ![Session Journey](./screenshots/session-journey.png)
