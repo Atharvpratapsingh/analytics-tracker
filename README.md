@@ -19,7 +19,7 @@ A full-stack user analytics application that tracks user interactions on a webpa
 ![Session Journey](screenshots/session-journey.png.png)
 
 ### Heatmap View
-![Heatmap](./screenshots/heatmap.png)
+![Heatmap](screenshots/heatmap.png.png)
 
 ## Features
 
